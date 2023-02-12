@@ -23,3 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 *.log
+
+# miscellaneous
+storybook-static
+dist
+.env
