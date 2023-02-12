@@ -88,7 +88,7 @@
   },
   "description": "Storybook design systems tutorial",
   "main": "dist/index.js",
-  "repository": "git@github.com:lvhieeus/learnstorybook-design-system.git",
+  "repository": "https://github.com/lvhieeus/learnstorybook-design-system.git",
   "author": "Hieu Le <lvhieeus@gmail.com>",
   "license": "MIT"
 }
