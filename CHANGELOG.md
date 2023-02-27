@@ -1,3 +1,15 @@
+# v0.2.0 (Mon Feb 27 2023)
+
+#### 🚀 Enhancement
+
+- Create avatar list component [#2](https://github.com/lvhieeus/learnstorybook-design-system/pull/2) ([@lvhieeus](https://github.com/lvhieeus))
+
+#### Authors: 1
+
+- [@lvhieeus](https://github.com/lvhieeus)
+
+---
+
 # v0.1.1 (Tue Feb 14 2023)
 
 #### ⚠️ Pushed to `main`
